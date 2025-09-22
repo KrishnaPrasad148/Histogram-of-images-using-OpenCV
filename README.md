@@ -95,24 +95,24 @@ plt.xlim([0, 256])
 plt.show()
 ```
 ## Output:
-### Input Grayscale Image and Color Image
+### 1) Input Grayscale Image and Color Image
 
 ![alt text](clr_gray.png)
 
-### Histogram of Grayscale Image and any channel of Color Image
+### 2) Histogram of Grayscale Image and any channel of Color Image
 
-#### Gray Image Histogram
+#### i) Gray Image Histogram
 ![alt text](gray_hst.png)
 
-#### Color Image Histogram (Red Channel)
+#### ii) Color Image Histogram (Red Channel)
 ![alt text](clr_hst.png)
 
-### Histogram Equalization of Grayscale Image.
+### 3) Histogram Equalization of Grayscale Image.
 
-#### Equalized Image 
+#### i) Equalized Image 
 ![alt text](eq_img.png)
 
-#### Equalization Histogram
+#### ii) Equalization Histogram
 ![alt text](eq_hst.png)
 
 
